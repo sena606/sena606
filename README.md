@@ -61,7 +61,7 @@
 <h1 align="center">🧩 PROJECT I’M WORKING ON</h1>
 
 <p align="center"><b>   🧗 Panjat Pinang Game – 2D arcade climbing game (Unity)
-  <p>align="center"><b> 🗡️VeilShade (in progress)</p>
+<p align="center">      🗡️ VeilShade (in progress)</p>
 <p align="center">      🧠 Learning C# Mechanics – player control, animation, game loop</b>
 
 ---
