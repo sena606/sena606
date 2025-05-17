@@ -15,7 +15,7 @@
 
 ---
 
-<h1 align="center"><b>⚔️ SKILLS & WEAPOWN</h1>
+<h1 align="center"><b>⚔️ SKILLS & WEAPON</h1>
 
 <div align="center">
 
@@ -61,6 +61,7 @@
 <h1 align="center">🧩 PROJECT I’M WORKING ON</h1>
 
 <p align="center"><b> 🧗 Panjat Pinang Game – 2D arcade climbing game (Unity)
+  <p>align="center"<b> 🗡️VeilShade (in progress)</p>
 <p align="center">🧠 Learning C# Mechanics – player control, animation, game loop</b>
 
 ---
@@ -77,7 +78,7 @@
 ---
 
 
-<h1 align="center">📈 My GitHub Stats</h1>
+<h1 align="center">📈 MY GITHUB STATS</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sena606&show_icons=true&theme=radical" />
@@ -87,7 +88,7 @@
 
 ---
 
-<h1 align="center">🎮 Let’s Connect!</h1>
+<h1 align="center">🎮 LET’S CONNECT!</h1>
 
 <p align="center">
   <a href="https://www.tiktok.com/@senasn_" target="_blank">
@@ -100,4 +101,4 @@
 
 ---
 
-> <p align="center">🎯 <i>Level up every day — one bug at a time."</p></i>
+<p align="center">🎯 <i>Level up every day — one bug at a time."</p></i>
