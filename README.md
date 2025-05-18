@@ -6,16 +6,16 @@
 
 ---
 
-<h1 align="center">🕹️WHO AM I?🕹️</h1>
+<h1 align="center">🕹️ WHO AM I? 🕹️</h1>
 
-<p align="center"><b> Hi, I’m Sena 👋</p>
+<p align="center"><b>Hi, I’m Sena 👋</b></p>
 <p align="center">🌟 Game Dev Enthusiast | Unity Explorer | Code Warrior</p>
 <p align="center">🛠️ Currently learning Unity Engine and C#</p>
-<p align="center">🧠 Dreaming to build awesome games that people love to play!</b></p>
+<p align="center">🧠 Dreaming to build awesome games that people love to play!</p>
 
 ---
 
-<h1 align="center"><b>⚔️ SKILLS & WEAPON</h1>
+<h1 align="center">⚔️ SKILLS & WEAPON</h1>
 
 <div align="center">
 
@@ -50,40 +50,33 @@
     </tr>
   </tbody>
 </table>
-</b>
 
 </div>
-
-
 
 ---
 
 <h1 align="center">🧩 PROJECT I’M WORKING ON</h1>
 
-<p align="center"><b>   🧗 Panjat Pinang Game – 2D arcade climbing game (Unity)
-<p align="center">      🗡️ VeilShade (in progress)</p>
-<p align="center">      🧠 Learning C# Mechanics – player control, animation, game loop</b>
+<p align="center"><b>🧗 Panjat Pinang Game</b> – 2D arcade climbing game (Unity)</p>
+<p align="center"><b>🗡️ VeilShade</b> – In Progress</p>
+<p align="center"><b>🧠 Learning C# Mechanics</b> – Player control, animation, game loop</p>
 
 ---
 
-<h1 align="center"> 🎯 MOST USED LANGUAGES
-</h1>
+<h1 align="center">🎯 MOST USED LANGUAGES</h1>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sena606&layout=compact&langs_count=5&theme=radical" alt="Top Langs" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sena606&layout=compact&langs_count=5&theme=radical" alt="Top Langs" />
 </p>
 
 ---
 
-
 <h1 align="center">📈 MY GITHUB STATS</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sena606&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sena606&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sena606&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sena606&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -92,7 +85,7 @@
 
 <p align="center">
   <a href="https://www.tiktok.com/@senasn_" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%231DA1F2.svg?style=for-the-badge&logo=tiktok&logoColor=white" />
+    <img src="https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/gentasn67/?hl=id" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -101,4 +94,4 @@
 
 ---
 
-<p align="center">🎯 <i>Level up every day — one bug at a time."</p></i>
+<p align="center">🎯 <i>"Level up every day — one bug at a time."</i></p>
