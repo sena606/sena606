@@ -1,5 +1,3 @@
-coba benarkan
-
 <h1 align="center">🎮 WELCOME TO MY UNIVERSE! 🎮</h1>
 
 <p align="center">
