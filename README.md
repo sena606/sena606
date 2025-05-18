@@ -66,7 +66,7 @@
 <h1 align="center">🎯 MOST USED LANGUAGES</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sena606&layout=compact&langs_count=5&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api/top-langs/?username=sena606&layout=compact&langs_count=5&theme=radical" alt="Top Langs" />
 </p>
 
 ---
@@ -74,7 +74,7 @@
 <h1 align="center">📈 MY GITHUB STATS</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sena606&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api?username=sena606&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sena606&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
