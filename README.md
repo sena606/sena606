@@ -40,12 +40,12 @@
     </tr>
     <tr>
       <td>🖌️ UI/UX</td>
-      <td>🛠️ Basic</td>
+      <td>🌱 Basic</td>
       <td>Tailwind CSS, Figma</td>
     </tr>
     <tr>
       <td>🌐 Web Dev</td>
-      <td>⚡ Intermediate</td>
+      <td>🌱 Basic</td>
       <td>HTML, JS</td>
     </tr>
   </tbody>
