@@ -94,7 +94,11 @@
   <a href="https://www.instagram.com/gentasn67/?hl=id" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://senasn.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Itch.io-%23333.svg?style=for-the-badge&logo=itch.io&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
